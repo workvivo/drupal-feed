@@ -1,0 +1,6 @@
+name: Workvivo Module
+description: Displays latest posts from workvivo.
+package: Custom
+type: module
+version: 1.0
+core: 8.x

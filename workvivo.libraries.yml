@@ -1,0 +1,5 @@
+workvivo:
+  version: 1.x
+  css:
+    theme: 
+      css/workvivo.css : {}

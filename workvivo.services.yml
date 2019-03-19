@@ -1,0 +1,5 @@
+services:
+  workvivo_client:
+    class: Drupal\workvivo\WorkvivoClient
+    arguments:
+      - '@http_client_factory'
